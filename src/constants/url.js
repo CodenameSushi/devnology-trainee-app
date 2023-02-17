@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://devnology-trainee.herokuapp.com/articles'
