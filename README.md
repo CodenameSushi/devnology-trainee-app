@@ -15,6 +15,11 @@
 
 - **Repo da API:** https://github.com/CodenameSushi/devnology-trainee
 
+- **Repo do Web Crawler:** https://github.com/CodenameSushi/devnology-webcrawler
+
+- Leia a documentação da API para entender seu funcionamento.
+
+- **Documentação:** https://documenter.getpostman.com/view/24460647/2s93CGRbZW
 
 
 ## 🚀 Instalando devnology_trainee_app
