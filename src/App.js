@@ -91,7 +91,7 @@ function App() {
 
 
   return (
-    <div className=" bg-slate-300	 dark:bg-gray-800 h-full w-full flex flex-col justify-start gap-20 p-10 items-center">
+    <div className=" bg-slate-300	 dark:bg-gray-800 h-screen w-screen flex flex-col justify-start gap-20 p-10 items-center">
       <Header theme={theme} 
       onThemeToggle={handleThemeSwitch} 
       toggleModal={toggleModal} 
